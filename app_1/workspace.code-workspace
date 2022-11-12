@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../AppData/Local/Programs/Python/Python38-32/Lib"
+		}
+	],
+	"settings": {
+		"python.analysis.extraPaths": [
+			"C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python38-32\\Lib\\site-packages"
+		],
+		"python.analysis.typeCheckingMode": "strict"
+	}
+}
